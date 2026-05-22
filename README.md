@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**rifahnanjiba02-arch/rifahnanjiba02-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Rifah Nanjiba, a curious learner and builder who enjoys creating useful and creative projects.
 
-Here are some ideas to get you started:
+## My Skills
+- Programming and problem solving
+- Web development
+- Learning and applying new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Building and improving personal development projects
+- Exploring practical software ideas and implementations
+
+## Future Interests
+- Artificial Intelligence (AI)
+- Behavioral AI
+- Quantum Computing
