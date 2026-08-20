@@ -19,9 +19,6 @@ An AI-powered e-commerce platform featuring intelligent agents that enhance the 
 - **Chatbot** - Conversational AI for customer support and product inquiries
 - **Refund Agent** - Automated refund processing and dispute resolution
 
-### 📋 **EventManagement**
-An event management system that empowers users to organize, schedule, and manage events efficiently. This project showcases my ability to design scalable solutions with complex scheduling logic and user management.
-
 ---
 
 ## 🔬 Future Interests & Areas of Exploration
